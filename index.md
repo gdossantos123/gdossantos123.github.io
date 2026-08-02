@@ -27,13 +27,40 @@ My work combines technical analysis with business understanding. Rather than foc
 
 ### Aviation Market Data Exploration and Analysis
 
-This project examined aviation market data for Canada to identify trends, relationships, and statistically meaningful differences within the market. The analysis included data preparation, exploratory data analysis, visualizations, descriptive statistics, and hypothesis testing.
+This project explores aviation market data for Canada using exploratory data analysis and statistical methods to identify operational trends, market relationships, and meaningful business insights. The analysis includes data preparation, descriptive statistics, data visualization, hypothesis testing, and interpretation of results to support data-driven decision-making.
 
-The project emphasized connecting statistical findings to practical aviation and business questions. Supporting materials include the complete Jupyter Notebook, dataset, final presentation, and written conclusion.
+*Skills & Technologies*
+- Python
+- Jupyter Notebook
+- Pandas
+- Statistical Analysis
+- Data Visualization
+- Microsoft Excel
 
-**Tools and methods:** Python, Jupyter Notebook, Pandas, statistical analysis, data visualization, hypothesis testing, and Microsoft Excel
+*Repository*
+https://github.com/gdossantos123/DSC530-Data-Exploration-and-Analysis
 
-[View the complete project on GitHub](https://github.com/gdossantos123/gdossantos123-GiselleDosSantos_DSC530_Term_Final)
+---
+
+### Airline Route Demand Prediction
+
+This project analyzes North American airline schedules and market data to investigate factors that influence airline route demand. Using data cleaning, exploratory data analysis, visualization, and predictive analytics techniques, the project demonstrates how data science can support airline network planning, capacity management, and strategic decision-making.
+
+The project incorporates real-world aviation datasets and emphasizes translating analytical findings into practical business recommendations.
+
+*Skills & Technologies*
+- Python
+- Pandas
+- NumPy
+- SQLite
+- Data Cleaning
+- Exploratory Data Analysis
+- Predictive Analytics
+- Data Visualization
+- Business Analytics
+
+*Repository*
+https://github.com/gdossantos123/airline-route-demand-prediction
 
 ---
 
