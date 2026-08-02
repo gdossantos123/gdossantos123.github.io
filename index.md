@@ -37,8 +37,7 @@ This project explores aviation market data for Canada using exploratory data ana
 - Data Visualization
 - Microsoft Excel
 
-*Repository*
-https://github.com/gdossantos123/DSC530-Data-Exploration-and-Analysis
+*Repository:* [View on GitHub](https://github.com/gdossantos123/DSC530-Data-Exploration-and-Analysis)
 
 ---
 
@@ -59,8 +58,7 @@ The project incorporates real-world aviation datasets and emphasizes translating
 - Data Visualization
 - Business Analytics
 
-*Repository*
-https://github.com/gdossantos123/airline-route-demand-prediction
+*Repository:* [View on GitHub](https://github.com/gdossantos123/airline-route-demand-prediction)
 
 ---
 
