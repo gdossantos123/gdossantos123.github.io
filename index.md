@@ -5,7 +5,7 @@ title: Giselle Dos Santos
 
 # Giselle Dos Santos
 
-**Data Science Graduate Student | Aviation and Business Analytics Professional**
+**Data Science Graduate Student** | **Aviation and Business Analytics Professional**
 
 I combine aviation industry experience, business analysis, and data science to transform complex information into clear, actionable insights.
 
