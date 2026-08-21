@@ -58,7 +58,27 @@ The project incorporates real-world aviation datasets and emphasizes translating
 - Data Visualization
 - Business Analytics
 
-*Repository:* [View on GitHub](https://github.com/gdossantos123/airline-route-demand-prediction)
+*Repository:* Coming Soon
+
+---
+
+### Predicting Airline Passenger Satisfaction
+
+This project uses machine learning classification techniques to predict airline passenger satisfaction based on passenger characteristics, travel details, and service-related factors. The analysis includes data cleaning, exploratory data analysis, feature preparation, model development, and performance evaluation to identify the factors most strongly associated with passenger satisfaction.
+
+*Skills & Technologies*
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Data Cleaning
+- Exploratory Data Analysis
+- Classification Modeling
+- Model Evaluation
+- Data Visualization
+- Business Analytics
+
+**Repository:** [View on GitHub](PASTE-YOUR-REPOSITORY-LINK-HERE)
 
 ---
 
