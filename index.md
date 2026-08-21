@@ -78,7 +78,7 @@ This project uses machine learning classification techniques to predict airline 
 - Data Visualization
 - Business Analytics
 
-**Repository:** Coming Soon
+**Repository:** [View on GitHub] (https://github.com/gdossantos123/airline-passenger-satisfaction-prediction)
 
 ---
 
