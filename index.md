@@ -58,7 +58,7 @@ The project incorporates real-world aviation datasets and emphasizes translating
 - Data Visualization
 - Business Analytics
 
-*Repository:* Coming Soon
+*Repository:* [View on GitHub](https://github.com/gdossantos123/airline-route-demand-prediciton)
 
 ---
 
@@ -78,7 +78,7 @@ This project uses machine learning classification techniques to predict airline 
 - Data Visualization
 - Business Analytics
 
-**Repository:** [View on GitHub](PASTE-YOUR-REPOSITORY-LINK-HERE)
+**Repository:** Coming Soon
 
 ---
 
